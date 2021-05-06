@@ -1,0 +1,7 @@
+package listRestaurant
+
+class RestaurantAdapter {
+
+
+
+}
